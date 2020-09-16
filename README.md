@@ -1,2 +1,2 @@
-# eg-2020
+# Node Group chat
 Hello world!
