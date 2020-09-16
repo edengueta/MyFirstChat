@@ -1,0 +1,25 @@
+{
+  "name": "group-chat",
+  "version": "1.0.0",
+  "description": "my first chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "asdasd",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/edengueta/MyFirstChat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edengueta/MyFirstChat/issues"
+  },
+  "homepage": "https://github.com/edengueta/MyFirstChat#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
